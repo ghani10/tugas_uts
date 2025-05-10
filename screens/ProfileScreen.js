@@ -9,7 +9,15 @@ export default function ProfileScreen() {
         style={{ width: 100, height: 100, borderRadius: 50 }}
       />
       <Text style={{ fontSize: 20, marginTop: 10 }}>Fahriza Abdul Ghani</Text>
-      <Text>Email: ghanifahriza2004@gmail.com</Text>
+      <text>NIM : 221011401546</text>
+      <Text>Email: fahrizaabdulghani@gmail.com</Text>
+      <Image
+        source={{ uri: 'https://i.pravatar.cc/155?img=12' }}
+        style={{ width: 100, height: 100, borderRadius: 50 }}
+      />
+      <Text style={{ fontSize: 20, marginTop: 10 }}>muhammad miftahul habaib dev</Text>
+      <text>NIM : 221011402110</text>
+      <Text>Email: miftahulhabaib@gmail.com</Text>
     </View>
   );
 }

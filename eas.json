@@ -1,0 +1,19 @@
+{
+    "cli": {
+      "version": ">= 3.0.0",
+      "requireCommit": true
+    },
+    "build": {
+      "production": {
+        "android": {
+          "buildType": "apk"
+        }
+      },
+      "preview": {
+        "android": {
+          "buildType": "apk"
+        }
+      }
+    }
+  }
+  
